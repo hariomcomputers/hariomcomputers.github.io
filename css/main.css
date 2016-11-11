@@ -4,4 +4,4 @@ body {
     background-color:#fff; padding:0px; margin:0px;
 }
 header{text-align:center; width:100%; color:#000; }
-header>h1{font-size:3em;}
+header>h1{font-size:3em; font-weight:400;}
