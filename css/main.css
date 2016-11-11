@@ -1,5 +1,6 @@
+box-sizing: border-box;
 body {
     width:100%;
-    background-color:#f1f1f1;
+    background-color:#fff; padding:0px; margin:0px;
 }
-header{text-align:center; width:100%; color:#000;}
+header{text-align:center; width:100%; color:#000;  background-color:#eee;}
