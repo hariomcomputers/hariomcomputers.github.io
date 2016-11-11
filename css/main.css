@@ -8,3 +8,5 @@ header>a{   font-family: Century Gothic; font-size:33px;     font-weight:400; te
 .nav{width:100%; background-color:#fff; padding:10px; text-align:center;     border-bottom: 1px solid #000;
     border-top: 1px solid #000;}  
 .nav>a{ font-family: Century Gothic; color:#000; text-decoration:none;     font-size: 18px;  font-weight: 400;    padding: 10px;}
+
+.cor{width:80%; min-height:100px; background-color:#eee; }
