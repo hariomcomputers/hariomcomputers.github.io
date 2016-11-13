@@ -3,7 +3,7 @@ body {
     width:100%; font-family: Century Gothic;
     background-color:#fff; padding:0px; margin:0px;
 }
-header{width:100%; color:#000; padding:25px;}
+header{width:100%; color:#000; padding:25px; border-bottom:1px solid #f1f2f3;}
 //header>a{   font-family: Century Gothic; font-size:33px;     font-weight:400; text-decoration:none; color:#000; }
 .nav{width:100%; background-color:#fff; padding:10px; text-align:center;     border-bottom: 1px solid #000;
     border-top: 1px solid #000;}  
