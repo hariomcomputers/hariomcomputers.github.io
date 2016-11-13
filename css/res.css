@@ -1,3 +1,4 @@
 @media only screen and (max-width: 500px) {
-    header>a{font-size:100%;}
+    header{text-align:center;}
+    .h-l{font-size:100%;} .h-r{font-size:100%;}
 }
