@@ -6,7 +6,11 @@ body {
 header{width:100%; color:#000; padding:1px; text-align:center; background-color:#1da1f2}
 header>h1{color:#fff; font-size:3em; font-weight:400;}
 .nav{width:100%; border-bottom:1px solid #98dad5; height:40px;}
+
 .nav>ul>li{float:left; list-style:outside none none;}
 .nav>ul{padding:1px;}
+
 .nav>ul>li>a{font-size: 18px;
 text-decoration: none; padding: 4px 8px}
+
+.nav>ul>li>a:hover,focus{border-bottom:3px solid #000;}
