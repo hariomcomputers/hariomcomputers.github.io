@@ -13,4 +13,4 @@ header>h1{color:#fff; font-size:3em; font-weight:400;}
 .nav>ul>li>a{font-size: 18px;
 text-decoration: none; padding: 11px 14px}
 
-.nav>ul>li>a:hover,focus{border-bottom: 5px solid #4C9ED9;}
+.nav>ul>li>a:hover,a:focus{border-bottom: 5px solid #4C9ED9;}
